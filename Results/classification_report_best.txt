@@ -1,0 +1,10 @@
+Stacking (RF + SVM -> LR) - Final Model
+
+              precision    recall  f1-score   support
+
+           0     0.9997    0.9997    0.9997      3176
+           1     0.9997    0.9997    0.9997      3280
+
+    accuracy                         0.9997      6456
+   macro avg     0.9997    0.9997    0.9997      6456
+weighted avg     0.9997    0.9997    0.9997      6456
