@@ -20,9 +20,14 @@ Link: https://www.unb.ca/cic/datasets/ids-2018.html
 This repository does **not** include the full dataset due to size constraints.
 
 You should:
-- Download CICIDS2018.csv from this repository.
-- Install all dependencies mentioned in requirements.txt
-- Reference or place it according to `Code/Code.py` and `data/README.md`.
+
+- Download a subset of the CIC-IDS-2018 dataset (e.g. `CICIDS2018.csv`) from this repo insdie Data.
+- Install all dependencies:
+  ```bash
+  pip install -r requirements.txt
+  -Run the below command on gitbash after meeting all requirements
+   python Code.py --data <path of dataset>.csv
+
 
 ---
 
